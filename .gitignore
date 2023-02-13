@@ -1,0 +1,4 @@
+*archived/
+*.DS_Store
+*.ipynb_checkpoints/
+*simulation.ipynb
